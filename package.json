@@ -1,6 +1,7 @@
 {
-	"homepage": "https://github.com/Prashasht-Gangele/tic-tac-toe",
+
   "name": "tic-tac-toe",
+"homepage": "https://Prashasht-Gangele.github.io/tic-tac-toe",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
